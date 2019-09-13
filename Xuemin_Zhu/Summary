@@ -1,0 +1,37 @@
+Summary of Mapping Human Whole-Brian Structural Networks with Diffusion MRI
+
+Goal
+
+Understanding the large-scale structural network formed by neurons and to get a detailed connectivity map of entire brain
+
+Mapping a large, comprehensive and individual white matter connectional datasets of the human and animal brain.
+
+Method
+
+Using diffusion MRI of both live and dead human or animal brains
+
+Introduction
+
+Problems
+Human brain is too complex to use a graph which consists of neurons and edges to explain.
+Irrelevant imformation from the global organization point of view.
+Granularity graphs are limited to small post-mortem datasets and people lack a large database of human brain
+
+Method
+Using a method derived from dMRI tractography which can map network consisting of nodes representing WGM interfaces and weighted edges between.
+
+Advantages
+1. a relatively high resolution: not only to study brain connectivity locally but globally
+2. non-invasive method: study to topology of living human brain
+3. an individual network for the entire brain: different from "average" brain
+4. efficient: an hour or less
+
+Material and Methods
+Methods:
+1.diffusion MRI acquisition
+2.white matter tractography
+3.white matter-gray matter interface partition into Regions Of Interest(ROIs)
+4. network construction
+
+Results and Discussion
+Human brain is a small world but not a scale-free network.
